@@ -1,0 +1,2 @@
+# bcn
+Sistema de Inventario
